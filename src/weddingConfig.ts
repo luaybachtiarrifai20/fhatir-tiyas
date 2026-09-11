@@ -34,14 +34,14 @@ export const weddingConfig = {
     groom: {
       name: "Fhatir Muhammad Faqqih",
       description:
-        "Anak Ke-1 dari<br/>Bapak Roni Febriyanto &amp; Ibu Lisa Tresia",
+        "Anak Ke-2 dari<br/>Bapak Roni Febriyanto &amp; Ibu Lisa Tresia",
       photo: photoGroom,
       instagram: "https://instagram.com/fhatir.faqq",
     },
     bride: {
       name: "Tiyas Sari Dewi",
       description:
-        "Anak Ke-2 dari<br/>Bapak Munadi &amp; Ibu Tukinah",
+        "Anak Ke-1 dari<br/>Bapak Munadi &amp; Ibu Tukinah",
       photo: photoBride,
       instagram: "https://instagram.com/tiyassari_",
     },

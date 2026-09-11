@@ -146,7 +146,7 @@ export const PageAcara: React.FC = () => {
         </div>
 
         <p className="reveal text-white text-[13px] text-center leading-relaxed" style={{ fontFamily: "Poppins, sans-serif" }}>
-          Bersama ini kami mengundang Bapak/Ibu/Saudara/i untuk hadir dalam Upacara Adat Manusa yadnya pawiwahan/pernikahan kami yang akan dilaksanakan pada:
+          Bersama ini kami mengundang Bapak/Ibu/Saudara/i untuk hadir dalam pernikahan kami yang akan dilaksanakan pada:
         </p>
 
         <EventCard
