@@ -54,15 +54,15 @@ export const weddingConfig = {
       title: "Akad Nikah",
       date: "Jumat ,02 Oktober 2026",
       time: "08.00 WIB s/d Selesai",
-      location: "Kediaman mempelai wanita,Dsn. Mekar jaya,Ds. Tawang sari, Kec. Sepauk, Kab. Sintang, Kalimantan Barat",
-      mapsUrl: "https://www.google.com/maps/place/8%C2%B033'10.6%22S+115%C2%B009'18.7%22E/@-8.552947,115.1526221,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-8.552947!4d115.155197?entry=ttu&g_ep=EgoyMDI2MDgyNi4wIKXMDSoASAFQAw%3D%3D",
+      location: "Kediaman mempelai wanita, Dsn. Mekar jaya, Ds. Tawang sari, Kec. Sepauk, Kab. Sintang, Kalimantan Barat",
+      mapsUrl: "",
     },
     resepsi: {
       title: "Resepsi Pernikahan",
       date: "Sabtu, 10 Oktober 2026",
       time: "15.00 WIB s/d Selesai",
       location: "Hotel 95,Jl. Imam Bonjol No.95, Bansir Laut, Kec. Pontianak Tenggara, Kota Pontianak, Kalimantan Barat",
-      mapsUrl: "https://maps.app.goo.gl/3hL7MxwyeR7TkJ3D9",
+      mapsUrl: "https://maps.app.goo.gl/QcteaXrddLwVGiT37?g_st=ipc",
     },
   },
 
