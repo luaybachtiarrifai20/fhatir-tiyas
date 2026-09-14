@@ -39,7 +39,7 @@ export const weddingConfig = {
       instagram: "https://instagram.com/fhatir.faqq",
     },
     bride: {
-      name: "Tiyas Sari Dewi",
+      name: "Tiyas Sari Dewi, S.Kep., Ns.",
       description:
         "Anak Ke-1 dari<br/>Bapak Munadi &amp; Ibu Tukinah",
       photo: photoBride,
