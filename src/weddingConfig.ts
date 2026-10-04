@@ -60,7 +60,7 @@ export const weddingConfig = {
     resepsi: {
       title: "Resepsi Pernikahan",
       date: "Sabtu, 10 Oktober 2026",
-      time: "15.00 WIB s/d Selesai",
+      time: "15.00 WIB s/d 19.00",
       location: "Hotel 95, Jl. Imam Bonjol No.95, Bansir Laut, Kec. Pontianak Tenggara, Kota Pontianak, Kalimantan Barat",
       mapsUrl: "https://maps.app.goo.gl/QcteaXrddLwVGiT37?g_st=ipc",
     },
